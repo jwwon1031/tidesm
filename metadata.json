@@ -1,0 +1,8 @@
+{
+  "name": "조석 시뮬레이터 (Tide Simulator)",
+  "description": "지구와 달, 태양의 상대적 위치와 관측자 위도에 따른 조석 현상, 일조부등, 기조력 벡터 및 사리·조금 주기를 실시간 시각화하는 교육용 시뮬레이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
